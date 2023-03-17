@@ -12,7 +12,7 @@ N/A
 
 To navigate the landing page, the user can click on any topic in the top right corner and immediately be taken to the corresponding text concerning that topic. This allows for usability and a faster understanding of the companies offerings and benifits of search engine optimization.
 
-![screenshot of finished webpage](./assets/images/Final first assignment 01.jpg)
+ ![screenshot of finished webpage](./assets/images/Final%20first%20assignment%2001.jpg))
 
 ## Credits
 
